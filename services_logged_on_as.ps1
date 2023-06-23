@@ -1,0 +1,1 @@
+Get-WmiObject "win32_service" -Filter "StartName='domain\\user'"

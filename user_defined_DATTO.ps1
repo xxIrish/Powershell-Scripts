@@ -1,0 +1,1 @@
+New-ItemProperty -Path HKLM:\SOFTWARE\CentraStage\ -Name "Custom5" -PropertyType String -Value "$varOriginalInstallDate"

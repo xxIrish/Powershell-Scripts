@@ -1,0 +1,1 @@
+Set-HostedConnectionFilterPolicy -Identity "Default" -IPAllowList @{Add='54.240.51.52', '54.240.51.53'}
